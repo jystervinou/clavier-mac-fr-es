@@ -10,23 +10,25 @@ Si vous utilisez un clavier français mais que vous avez besoin de taper fréque
 
 Suivez les étapes ci-dessous pour installer le clavier Français-Espagnol sur votre Mac :
 
-1. **Télécharger le fichier** : Téléchargez le fichier `Français-Espagnol.bundle` depuis ce dépôt.
+1. **Télécharger le fichier** : Téléchargez le fichier `Français-Espagnol.zip` depuis ce dépôt.
 
-2. **Copier le fichier** : Placez le fichier `Français-Espagnol.bundle` dans le dossier `~/Library/Keyboard Layouts/`. Pour accéder à ce dossier :
+2. **Dézipper le fichier** : Une fois téléchargé, décompressez `Français-Espagnol.zip` pour obtenir le dossier `Français-Espagnol.bundle`.
+
+3. **Copier le fichier** : Placez le fichier `Français-Espagnol.bundle` dans le dossier `~/Library/Keyboard Layouts/`. Pour accéder à ce dossier :
    - Ouvrez le **Finder**.
    - Dans la barre de menus, cliquez sur **Aller** puis sélectionnez **Aller au dossier...**.
    - Entrez `~/Library/Keyboard Layouts/` et cliquez sur **Aller**.
    - Si le dossier n'existe pas, vous pouvez le créer manuellement.
 
-3. **Redémarrer le Mac** : Pour que le système prenne en compte la nouvelle disposition de clavier, déconnectez-vous puis reconnectez-vous, ou redémarrez votre Mac.
+4. **Redémarrer le Mac** : Pour que le système prenne en compte la nouvelle disposition de clavier, déconnectez-vous puis reconnectez-vous, ou redémarrez votre Mac.
 
-4. **Sélectionner la disposition de clavier** :
+5. **Sélectionner la disposition de clavier** :
    - Allez dans **Préférences Système** > **Clavier** > **Méthodes de saisie**.
    - Cliquez sur le bouton **+** pour ajouter une nouvelle disposition.
    - Recherchez et sélectionnez **Français-Espagnol** dans la liste.
    - Cliquez sur **Ajouter**.
 
-5. **Configurer comme clavier par défaut (optionnel)** :
+6. **Configurer comme clavier par défaut (optionnel)** :
    - Dans la liste des claviers, faites glisser **Français-Espagnol** en haut pour le définir par défaut.
    - Vous pouvez également supprimer les autres claviers si vous le souhaitez.
 
