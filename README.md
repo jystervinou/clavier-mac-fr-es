@@ -10,7 +10,7 @@ Si vous utilisez un clavier français mais que vous avez besoin de taper fréque
 
 Suivez les étapes ci-dessous pour installer le clavier Français-Espagnol sur votre Mac :
 
-1. **Télécharger le fichier** : Téléchargez le fichier `Français-Espagnol.zip` depuis ce dépôt.
+1. **Télécharger le fichier** : [Téléchargez le fichier `Français-Espagnol.zip`](https://github.com/jystervinou/clavier-mac-fr-es/raw/refs/heads/main/Français-Espagnol.zip) depuis ce dépôt.
 
 2. **Dézipper le fichier** : Une fois téléchargé, décompressez `Français-Espagnol.zip` pour obtenir le dossier `Français-Espagnol.bundle`.
 
