@@ -42,7 +42,7 @@ La disposition de clavier Français-Espagnol vous permet de saisir facilement le
   - `Option + o` pour `ó`
   - `Option + u` pour `ú`
 
-- **Tilde (~) pour "ñ"** : Maintenez la touche `Option` et tapez `n`, puis tapez `n` à nouveau pour obtenir `ñ`.
+- **Tilde (~) pour "ñ"** : Maintenez la touche `Option` et tapez `n`, pour obtenir `ñ`.
 
 Ces raccourcis permettent de taper rapidement en espagnol sans changer de disposition de clavier.
 
