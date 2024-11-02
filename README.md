@@ -32,9 +32,19 @@ Suivez les étapes ci-dessous pour installer le clavier Français-Espagnol sur v
    - Dans la liste des claviers, faites glisser **Français-Espagnol** en haut pour le définir par défaut.
    - Vous pouvez également supprimer les autres claviers si vous le souhaitez.
 
-## Utilisation
+## Utilisation des touches spéciales en espagnol
 
-Vous pouvez maintenant commencer à taper en espagnol plus facilement tout en conservant la disposition française pour les autres caractères.
+La disposition de clavier Français-Espagnol vous permet de saisir facilement les caractères espagnols en utilisant les combinaisons suivantes :
+
+- **Accents aigus** : Maintenez la touche `Option` et tapez la lettre accentuée :
+  - `Option + a` pour `á`
+  - `Option + i` pour `í`
+  - `Option + o` pour `ó`
+  - `Option + u` pour `ú`
+
+- **Tilde (~) pour "ñ"** : Maintenez la touche `Option` et tapez `n`, puis tapez `n` à nouveau pour obtenir `ñ`.
+
+Ces raccourcis permettent de taper rapidement en espagnol sans changer de disposition de clavier.
 
 ## Remarques
 
