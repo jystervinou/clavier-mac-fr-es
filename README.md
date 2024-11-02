@@ -1,4 +1,4 @@
-# Clavier Mac Français-Espagnol
+# Clavier macOS français-espagnol pour clavier français
 
 Ce projet fournit une disposition de clavier pour macOS afin d'optimiser la frappe de l'espagnol sur un clavier français.
 
